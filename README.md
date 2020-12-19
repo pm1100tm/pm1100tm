@@ -1,6 +1,11 @@
 <!-- @format -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pm1100tm&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pm1100tm&show_icons=true&theme=darcula&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm1100tm" />
+</a>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pm1100tm)](https://github.com/anuraghazra/github-readme-stats)
 
