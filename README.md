@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pm1100tm)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pm1100tm)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
