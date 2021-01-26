@@ -1,17 +1,50 @@
-Hi there, I'm SWD! 👋
+<!-- @format -->
 
-contact me - tladnjsen@gmail.com
+<b>Hi there, I'm dev-swd !</b> 👋
 
-![](https://komarev.com/ghpvc/?username=pm1100tm&color=red)
+<b>contact me</b> - tladnjsen@gmail.com
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpm1100tm%2Fhit-counter&count_bg=%23AFC83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- 👯 I’m currently <b>looking for a job</b> dealing with <b>Python</b> or <b>Java</b>.
+- 🔭 I’m also interested in JavaScript / React / Vue.js
+- 🌱 I’m have a lot of passion for development.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pm1100tm&show_icons=true&theme=dracula)
+<br>
 
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pm1100tm&repo=14-1st-Trendi-backend)](https://github.com/pm1100tm/14-1st-Trendi-backend)-->
+![](https://komarev.com/ghpvc/?username=pm1100tm&color=red) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpm1100tm%2Fhit-counter&count_bg=%23AFC83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pm1100tm&langs_count=8&layout=compact)](https://github.com/pm1100tm/github-readme-stats)-->
+<!-- ## 🧰 Languages and Tools:
+<p align="center">
+<img src="/img/python.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pm1100tm&langs_count=8)
+<img src="/img/django.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
+<img src="/img/flask.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
+<img src="/img/brew.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
+<img src="/img/java.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
+<img src="/img/mysql.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
+<img src="/img/html.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
+<img src="/img/css.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
+<img src="/img/js.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
+</p> -->
+
+## :trophy: My Github Stats:
+
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+-->
+
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pm1100tm&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=pm1100tm&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pm1100tm&theme=dracula">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pm1100tm&theme=dracula" />
+</a>
