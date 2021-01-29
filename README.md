@@ -6,7 +6,7 @@
 
 - 👯 I’m currently <b>looking for a job</b> position that backend developer dealing with Python/Java.
 - 🔭 I’m also interested in Frontend language ex) JavaScript / React
-- 🌱 I’m have a lot of passion for development.
+- 🌱 I have a lot of passion for development.
 
 <br>
 
