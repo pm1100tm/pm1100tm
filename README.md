@@ -4,7 +4,7 @@
 
 <b>contact me</b> - tladnjsen@gmail.com
 
-- 👯 I’m currently <b>looking for a job</b> position that backend developer dealing with Python/Java.
+- 👯 I’m currently <b>looking for a job</b> position for backend developer dealing with Python/Java.
 - 🔭 I’m also interested in Frontend language ex) JavaScript / React
 - 🌱 I have a lot of passion for development.
 
