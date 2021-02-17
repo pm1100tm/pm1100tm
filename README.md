@@ -4,7 +4,7 @@
 
 <b>contact me</b> - tladnjsen@gmail.com
 
-- 👯 I’m currently studying <b>Vue.js</b> frontend Framewokr and JavaScript.
+- 👯 I’m currently studying <b>Vue.js</b> frontend Framework and JavaScript.
 - 🔭 I can deal with Python&Java as backend engineer.
 - 🌱 Having a lot of passion for development
 
