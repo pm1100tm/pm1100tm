@@ -4,8 +4,8 @@
 
 <b>contact me</b> - tladnjsen@gmail.com
 
-- 👯 I’m currently studying <b>Python/Django/DRF/Java/SpringBoot/AWS</b>.
 - 🔭 I can deal with Python&Java as Backend engineer.
+- 👯 I’m currently studying <b>Django/Django Rest Framework(DRF)/React/AWS</b>.
 - 🌱 Having a lot of passion for development
 
 <br>
