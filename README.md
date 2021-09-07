@@ -34,7 +34,3 @@
 <img src="/img/js.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
 </p> -->
-
-## :trophy: My Github Stats:
-
-
