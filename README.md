@@ -4,7 +4,7 @@
 
 - 🔭 Main- Python, Sub- Java, JS
 - 👯 I'm working with Django/DRF/Nest.js. Hope to be Fullstack engineer.
-- 🌱 Want to establish a company.
+- 🌱 Want to establish my company.
 
 <br>
 
