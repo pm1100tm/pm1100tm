@@ -3,8 +3,8 @@
 <b>Hi there, I'm dev-swd !</b> 👋
 
 - 🔭 Main- Python, Sub- Java, JS
-- 👯 I’m currently digging <b>Django/DRF/Nest.js</b>. Hope to be Fullstack engineer.
-- 🌱 Have a goal to make my company. Thanks!
+- 👯 I'm working with Django/DRF/Nest.js. Hope to be Fullstack engineer.
+- 🌱 Want to establish a company.
 
 <br>
 
