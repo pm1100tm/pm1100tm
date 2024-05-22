@@ -1,10 +1,10 @@
 <!-- @format -->
 
-<b>Hello there</b> 👋
+👋 <b>Hello, there</b> 
 
-- 🚀 I'm a highly motivated software engineer
-- 🧑‍💻 Always striving to write clean and efficient code.
-- 🕶️ Have strong interest in backend side code, database and infra management using AWS.
+- 🚀 Highly motivated software engineer.
+- 🕶️ Enjoy problem-solving and continuous-learning.
+- 🧑‍💻 Aim to become a full-stack developer.
 
 <br>
 
