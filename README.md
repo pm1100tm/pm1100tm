@@ -1,12 +1,29 @@
 <!-- @format -->
 
-<b>Hello there, I'm dev-swd !</b> 👋
+<b>Hello there</b> 👋
 
-- 🔭 I work as a backend engineer, and I feel happy when I fill in the gaps.
-- 👯 Main language is Python
-- 🌱 Sub language is Java, and i also interested in JavaScript.
-- 🥋 Now i'm working with Python&Django Ninja project.
-- 🏢 I Want to establish my company.
+- 🚀 I'm a highly motivated software engineer
+- 🧑‍💻 Always striving to write clean and efficient code.
+- 🕶️ Have strong interest in backend side code, database and infra management using AWS.
+
+<br>
+
+<div align='left'>
+ <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+ <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+ <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+ <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
+ <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+ <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+</div>
+<div align='left'>
+ <img alt="Django" src ="https://img.shields.io/badge/Django-0b4b33.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
+ <img alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white"/>
+ <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+ <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+ <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+ <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</div>
 
 <br>
 
