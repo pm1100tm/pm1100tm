@@ -1,10 +1,10 @@
 <!-- @format -->
 
-👋 <b>Hello, there</b> 
+👋 <b>Hello, there. I am</b>
 
-- 🚀 Highly motivated software engineer.
-- 🕶️ Enjoy problem-solving and continuous-learning.
-- 🧑‍💻 Aim to become a full-stack developer.
+- 🚀 highly motivated software engineer.
+- 🕶️ enjoy problem-solving and continuous-learning.
+- 🧑‍💻 aim to become a full-stack developer.
 
 <br>
 
@@ -35,6 +35,7 @@
  <img alt="Git" src ="https://img.shields.io/badge/Git-0b4b33.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
  <img alt="PyCharm" src ="https://img.shields.io/badge/PyCharm-E0234E.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
  <img alt="DataGrip" src ="https://img.shields.io/badge/DataGrip-4169E1.svg?&style=for-the-badge&logo=DataGrip&logoColor=white"/>
+ <img alt="VisualStudioCode" src ="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
 </div>
 
 <br>
