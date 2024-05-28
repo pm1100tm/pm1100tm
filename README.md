@@ -4,7 +4,7 @@
 
 - 🚀 highly motivated software engineer.
 - 🕶️ enjoy problem-solving and continuous-learning.
-- 🧑‍💻 aim to become a full-stack developer.
+- 🧑‍💻 aim to become a versatile full-stack developer.
 
 <br>
 
